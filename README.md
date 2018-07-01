@@ -18,6 +18,6 @@ The game begins with placing the initial 3 pieces for the computer and player. M
 
 After all the pieces are placed, the program enters the second algorithm for determing safe moves to ensure I do not give the computer a victory. After that, the program waits for the data feedback of the server to say 30 moves and then increase the game count and reset the game. It then begins with placement again and repeats 50 times.
 
-You are welcome to run the program and see output of each move and flags for different statuses of the game! You may just have to install some json and color scheme packages.
+You are welcome to run the program and see output of each move and flags for different statuses of the game! You may just have to install some json and colorize libraries.
 
 Thank you for looking!
